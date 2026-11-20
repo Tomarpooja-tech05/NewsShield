@@ -1,0 +1,19 @@
+{
+    "total_tested": 7821,
+    "correct_predictions": 7739,
+    "wrong_predictions": 82,
+    "accuracy": 98.95,
+    "precision": 98.6,
+    "recall": 99.48,
+    "f1_score": 99.04,
+    "confusion_matrix": [
+        [
+            3522,
+            60
+        ],
+        [
+            22,
+            4217
+        ]
+    ]
+}
